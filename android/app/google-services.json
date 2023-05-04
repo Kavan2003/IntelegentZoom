@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "33530869954",
+    "project_id": "mlkit-35f9f",
+    "storage_bucket": "mlkit-35f9f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:33530869954:android:21dbdf088f17ef52b6a35b",
+        "android_client_info": {
+          "package_name": "com.example.intelligent_autozoom"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "33530869954-2svmvg5oh1j839gq12cn30otdqp2pkb4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBWCUTRizYXhnHQEGTxlgd9fNsjrf_8MYQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "33530869954-2svmvg5oh1j839gq12cn30otdqp2pkb4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
